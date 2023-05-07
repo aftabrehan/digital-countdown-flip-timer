@@ -7,8 +7,12 @@
 }
 
 body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
   background-color: #f2f1ed;
-  color: #de4848;
+  color: #77c4ff;
 }
 
 .flip-card {
