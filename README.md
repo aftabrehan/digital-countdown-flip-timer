@@ -1,7 +1,11 @@
-# Digital CountDown Flip Timer Clock ⏰ 
-A Simple Digital Clock :rocket:
+# Digital Countdown Flip Timer
 
-##### Preview
+Presenting the Digital Countdown Flip Timer, an engaging web component crafted with HTML, CSS, and JavaScript. By working on this undertaking, I have gained proficiency in incorporating JavaScript to enhance the interactivity of webpages. Check out the source code and give feedback.
+
+| [View Project 🔥](https://aftabrehan.com/portfolio/digital-countdown-flip-timer) | [Live Preview 🚀](https://digital-countdown-flipper.netlify.app) |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+
+#### Preview
 
 <div align="center">
 
